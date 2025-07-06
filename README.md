@@ -13,3 +13,8 @@ For installation of packages use :
 
 Use streamlit gb.py to run the file 
 the csv file is 200mb so i uploaded the zip file unzip and upload the file after running the python file. you have to upload directly in the streamlit page.
+
+
+
+the cbt.ipynb file shows the correlation between the cause and effect of the events.
+the ccm.ipynb file shows the realtion between the cross map skill and library size of the events and fatalities.
