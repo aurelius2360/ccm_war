@@ -10,3 +10,6 @@ you can change it by changing this line .head() value --{ top_labels = df['event
 For installation of packages use :
           pip install streamlit pandas numpy seaborn matplotlib pyEDM
 
+
+Use streamlit gb.py to run the file 
+the csv file is 200mb so i uploaded the zip file unzip and upload the file after running the python file. you have to upload directly in the streamlit page.
